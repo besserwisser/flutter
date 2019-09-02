@@ -740,7 +740,7 @@ class _DropdownButtonState<T> extends State<DropdownButton<T>> with WidgetsBindi
   // Defined by WidgetsBindingObserver
   @override
   void didChangeMetrics() {
-    _removeDropdownRoute();
+    // _removeDropdownRoute();
   }
 
   void _removeDropdownRoute() {
