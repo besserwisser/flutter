@@ -10,7 +10,7 @@ import 'package:flutter/widgets.dart';
 import 'material.dart';
 import 'theme.dart';
 
-const double _kLinearProgressIndicatorHeight = 6.0;
+const double _kLinearProgressIndicatorHeight = 2.0;
 const double _kMinCircularProgressIndicatorSize = 36.0;
 const int _kIndeterminateLinearDuration = 1800;
 
